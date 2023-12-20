@@ -145,17 +145,17 @@ p{
   left: 0;
   bottom: -3px;
   width: 155px;
-  border-bottom: 1px solid rgba(255, 255, 255, 50%);
+  border-bottom: 3px solid rgba(255, 255, 255, 50%);
 }
 
-.switch-text::before {
+/* .switch-text::before {
   content: '';
   position: absolute;
   left: 0;
   bottom: -6px;
   width: 155px;
   border-bottom: 1px solid rgba(255, 255, 255, 50%);
-}
+} */
 
 .ftp-text{
   color: white;
